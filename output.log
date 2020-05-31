@@ -2,10 +2,10 @@
 2019-4-1 13:33:46 [123] User1 types in search text
 2019-4-1 13:33:50 [123] User1 clicks search button
 2019-4-1 13:33:54 [123] ERROR: Some exception occured  -------  
-2019-4-1 13:33:49 [190] User3 runs some job
-2019-4-1 13:35:57 [190] ERROR: Invalid input
 2019-4-1 13:35:40 [190] User3 logs in
-2019-4-1 13:35:49 [190] User3 runs some job  -------  
+2019-4-1 13:35:49 [190] User3 runs some job
+2019-4-1 13:35:40 [190] User3 logs in
+2019-4-1 13:35:57 [190] ERROR: Invalid input  -------  
 2019-4-1 13:35:45 [124] User1 logs in
 2019-4-1 13:35:50 [124] User1 clicks search button
 2019-4-1 13:35:53 [124] User2 does something
