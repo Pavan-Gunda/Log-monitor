@@ -1,6 +1,6 @@
 # Log monitor
 
-This assignment focuses on monitoring logs, It scans the log file and returns a report with errors in sessions along with the last three messages before the error assuming the session ends when an error occurs.
+This assignment focuses on monitoring logs. It scans the log file and returns a report with errors in sessions along with the last three messages before the error, assuming the session ends when an error occurs.
 
 ## Usage
 
